@@ -67,6 +67,10 @@ div .info{
     color: hsl(0, 0%, 7%);
 }
 
+.titulo:hover{
+    color: hsl(47, 88%, 63%);
+}
+
 footer {
     display: flex;
     align-items: center;
